@@ -68,6 +68,3 @@ Here is the full content of my first blog post...
 4.remark / remark-html
 5.Tailwind CSS (optional)
 
-
-![Screenshot (61)](https://github.com/user-attachments/assets/119bece0-ca3c-4e59-adf0-85fa0fdd865e)
-
