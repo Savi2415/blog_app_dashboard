@@ -67,10 +67,12 @@ Here is the full content of my first blog post...
 3.gray-matter
 4.remark / remark-html
 5.Tailwind CSS (optional)
-![Screenshot (61)](https://github.com/user-attachments/assets/56676d64-1ae4-44e8-bc90-f243dc2073a0)
-![Screenshot (63)](https://github.com/user-attachments/assets/01f83c0c-a491-441c-96af-534e5c23a4b6)
-![Screenshot (64)](https://github.com/user-attachments/assets/e9d413a3-5537-4060-b385-e7bdf0f6e0ad)
-![Screenshot (65)](https://github.com/user-attachments/assets/9716b3dc-8bec-4892-9697-20189021db96)
 
+
+![Screenshot (61)](https://github.com/user-attachments/assets/6e4b9f22-d891-4935-91a6-8f1c5c6103a8)
+![Screenshot (63)](https://github.com/user-attachments/assets/583937a1-176b-44a5-9d6e-c4066df20538)
+![Screenshot (64)](https://github.com/user-attachments/assets/b7f1fd45-24a9-40e4-a1cb-4ae1036874b7)
+
+![Screenshot (65)](https://github.com/user-attachments/assets/85705e67-dc8a-4f21-bac1-5af674676ab0)
 
 
